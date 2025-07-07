@@ -3,6 +3,12 @@ How to Install McAfee Subscription via www.mcafee.com/Activate Download & Instal
 
 Installing a powerful antivirus solution is the first line of defense in today's digital world. If you've purchased McAfee and are ready to secure your system, this guide will walk you through how to **Install McAfee Subscription** via the official **www.mcafee.com/Activate Download & Install** page. Whether you are a new or returning user, activating your product with the 25-digit code is quick and straightforward.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://mcafeedesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with McAfee</a>
+   </div>
+
 Using the **www.mcafee.com/Activate Download & Install** portal, users can redeem their product key, download the installer, and complete the setup process with ease. This article provides step-by-step guidance on how to **Install McAfee Subscription**, common troubleshooting tips, and how to manage your account after installation.
 
 Let’s dive into this comprehensive guide on using **www.mcafee.com/Activate Download & Install** to unleash the full potential of your McAfee security suite.
